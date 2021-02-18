@@ -10,4 +10,4 @@ Note: Not all code has been uploaded here or written in a "production level" way
 Consult me at:
 email:rdelgadillo0000@gmail.com
 
-If you have any questions. I have tried to add as many comments to the main code as possible. In the future I will try to imporve this algorithm using Machine learning.
+If you have any questions. I have tried to add as many comments to the main code as possible. In the future I will try to improve this algorithm using Machine learning.
